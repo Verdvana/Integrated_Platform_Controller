@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=LED6 Pin=U1-37
+Removed Pin From Net: NetName=KEY4 Pin=U1-38
+Added Pin To Net: NetName=KEY4 Pin=U1-37
+Added Pin To Net: NetName=LED6 Pin=U1-38
+Added Room: Name=Integrated_Platform_Controller

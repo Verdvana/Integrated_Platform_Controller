@@ -1,0 +1,17 @@
+Added Component: Designator=D?(SMA-DO-214AC)
+Added Component: Designator=D?(SMA-DO-214AC)
+Added Component: Designator=D?(SMA-DO-214AC)
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=USART_RX Pin=D?-2
+Added Pin To Net: NetName=USART_TX Pin=D?-2
+Added Pin To Net: NetName=VCC_USB Pin=D?-2
+Added Pin To Net: NetName=BOOT1 Pin=P1-3
+Added Pin To Net: NetName=BOOT0 Pin=P1-4
+Added Pin To Net: NetName=BOOT0 Pin=R1-1
+Added Pin To Net: NetName=BOOT1 Pin=R2-1
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component D? SMAJ5.0CA
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component D? SMAJ5.0CA
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component D? SMAJ5.0CA
+Added Room: Name=Integrated_Platform_Controller

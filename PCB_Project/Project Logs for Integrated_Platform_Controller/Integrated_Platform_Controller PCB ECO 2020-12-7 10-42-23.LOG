@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Change Component Designator: OldDesignator=D? NewDesignator=D6
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component D2 SMAJ5.0CA
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component D3 SMAJ5.0CA
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component D4 SMAJ5.0CA
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component D5 SMAJ5.0CA
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component D6 SMAJ5.0CA

@@ -1,0 +1,25 @@
+--cpu Cortex-M3
+"integrated_platform_controller\startup_stm32f103xb.o"
+"integrated_platform_controller\main.o"
+"integrated_platform_controller\gpio.o"
+"integrated_platform_controller\usart.o"
+"integrated_platform_controller\stm32f1xx_it.o"
+"integrated_platform_controller\stm32f1xx_hal_msp.o"
+"integrated_platform_controller\stm32f1xx_hal_gpio_ex.o"
+"integrated_platform_controller\stm32f1xx_hal_tim.o"
+"integrated_platform_controller\stm32f1xx_hal_tim_ex.o"
+"integrated_platform_controller\stm32f1xx_hal_uart.o"
+"integrated_platform_controller\stm32f1xx_hal.o"
+"integrated_platform_controller\stm32f1xx_hal_rcc.o"
+"integrated_platform_controller\stm32f1xx_hal_rcc_ex.o"
+"integrated_platform_controller\stm32f1xx_hal_gpio.o"
+"integrated_platform_controller\stm32f1xx_hal_dma.o"
+"integrated_platform_controller\stm32f1xx_hal_cortex.o"
+"integrated_platform_controller\stm32f1xx_hal_pwr.o"
+"integrated_platform_controller\stm32f1xx_hal_flash.o"
+"integrated_platform_controller\stm32f1xx_hal_flash_ex.o"
+"integrated_platform_controller\system_stm32f1xx.o"
+--library_type=microlib --strict --scatter "Integrated_Platform_Controller\Integrated_Platform_Controller.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "Integrated_Platform_Controller.map" -o Integrated_Platform_Controller\Integrated_Platform_Controller.axf

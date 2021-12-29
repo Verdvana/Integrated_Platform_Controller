@@ -1,0 +1,27 @@
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=VCC_3V3 Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=VCC_3V3 Pin=U1-24
+Added Pin To Net: NetName=GND Pin=U1-35
+Added Pin To Net: NetName=VCC_3V3 Pin=U1-36
+Added Pin To Net: NetName=GND Pin=U1-47
+Added Pin To Net: NetName=VCC_3V3 Pin=U1-48
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component C? 20pF
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component C? 100nF
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component C? 22¦ÌF
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component C? 100nF
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component C? 20pF
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component C? 100nF
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component MH? Mounting Hole 3MM
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component MH? Mounting Hole 3MM
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component MH? Mounting Hole 3MM
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component R? 10K
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component R? 10K
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component S? SW
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component S? SW
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component S? SW
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component S? SW
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component S? SW
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component S? SW
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component U? ME6211C33M5G
+Added Room: Name=Integrated_Platform_Controller

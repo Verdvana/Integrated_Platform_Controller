@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=LD1 Old Footprint=LED-GREEN-5MM New Footprint=LED-RED-3MM
+Change Component Footprint: Designator=LD2 Old Footprint=LED-GREEN-5MM New Footprint=LED-RED-3MM
+Change Component Footprint: Designator=LD3 Old Footprint=LED-GREEN-5MM New Footprint=LED-RED-3MM
+Change Component Footprint: Designator=LD4 Old Footprint=LED-GREEN-5MM New Footprint=LED-RED-3MM
+Change Component Footprint: Designator=LD5 Old Footprint=LED-GREEN-5MM New Footprint=LED-RED-3MM
+Change Component Footprint: Designator=LD6 Old Footprint=LED-GREEN-5MM New Footprint=LED-RED-3MM
+Added Room: Name=Integrated_Platform_Controller

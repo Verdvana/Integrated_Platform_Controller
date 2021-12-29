@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=NetC4_1 Pin=U1-7
+Change Net Name : Old Net Name=NetC4_1 New Net Name=RST_N
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(200, 235, 235) New Net Color=Default
+Added Room: Name=Integrated_Platform_Controller

@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=P1 Old Footprint=SW-2p-2.54mm New Footprint=SW-2p-1.27mm
+Change Component Comment : Designator=C5 Old Comment=10¦Ì New Comment=10¦ÌF
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component C4 100nF
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component MH4 Mounting Hole 3MM
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component P3 Header 4
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component R16 10K
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component U3 ME6211C33M5G
+Added Room: Name=Integrated_Platform_Controller

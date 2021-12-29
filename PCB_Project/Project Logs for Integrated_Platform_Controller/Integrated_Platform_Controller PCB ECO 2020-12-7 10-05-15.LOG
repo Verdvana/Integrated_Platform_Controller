@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=D_N Pin=P2-2
+Added Pin To Net: NetName=D_N Pin=U2-5
+Added Net: Name=D_N
+Added Pin To Net: NetName=D_P Pin=P2-3
+Added Pin To Net: NetName=D_P Pin=U2-4
+Added Net: Name=D_P
+Added Pin To Net: NetName=RXD Pin=U1-11
+Added Pin To Net: NetName=RXD Pin=U2-25
+Added Net: Name=RXD
+Added Pin To Net: NetName=TXD Pin=U1-12
+Added Pin To Net: NetName=TXD Pin=U2-26
+Added Net: Name=TXD
+Added Differential Pair: Name=D
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component D? SMAJ5.0CA
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component D? SMAJ5.0CA
+Added Room: Name=Integrated_Platform_Controller

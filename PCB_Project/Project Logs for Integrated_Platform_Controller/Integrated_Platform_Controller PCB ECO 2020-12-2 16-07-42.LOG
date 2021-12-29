@@ -1,0 +1,16 @@
+Added Component: Designator=S?(KEY-DIP-12X12X7.3)
+Added Component: Designator=S?(KEY-DIP-12X12X7.3)
+Added Component: Designator=S?(KEY-DIP-12X12X7.3)
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component C? 22¦ÌF
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component C? 20pF
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component C? 100nF
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component C? 100nF
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component C? 100nF
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component C? 20pF
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component S? SW
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component S? SW
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component S? SW
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component S? SW
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component S? SW
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component S? SW
+Added Room: Name=Integrated_Platform_Controller

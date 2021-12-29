@@ -1,0 +1,19 @@
+Added Pin To Net: NetName=KEY1 Pin=R5-1
+Added Pin To Net: NetName=KEY1 Pin=U1-25
+Added Net: Name=KEY1
+Added Pin To Net: NetName=KEY2 Pin=R6-1
+Added Pin To Net: NetName=KEY2 Pin=U1-26
+Added Net: Name=KEY2
+Added Pin To Net: NetName=KEY3 Pin=R9-1
+Added Pin To Net: NetName=KEY3 Pin=U1-27
+Added Net: Name=KEY3
+Added Pin To Net: NetName=KEY4 Pin=R10-1
+Added Pin To Net: NetName=KEY4 Pin=U1-28
+Added Net: Name=KEY4
+Added Pin To Net: NetName=KEY5 Pin=R13-1
+Added Pin To Net: NetName=KEY5 Pin=U1-32
+Added Net: Name=KEY5
+Added Pin To Net: NetName=KEY6 Pin=R14-1
+Added Pin To Net: NetName=KEY6 Pin=U1-33
+Added Net: Name=KEY6
+Added Room: Name=Integrated_Platform_Controller

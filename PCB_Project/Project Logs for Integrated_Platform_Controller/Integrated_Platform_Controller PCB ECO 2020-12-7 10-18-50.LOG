@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=RXD Pin=U1-11
+Added Component: Designator=D?(SMA-DO-214AC)
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=VCC_USB Pin=D?-2
+Added Pin To Net: NetName=RXD Pin=U1-13
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component D? SMAJ5.0CA
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component D? SMAJ5.0CA
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component D? SMAJ5.0CA
+Added Room: Name=Integrated_Platform_Controller

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=RXD Pin=U2-25
+Removed Pin From Net: NetName=TXD Pin=U2-26
+Added Pin To Net: NetName=TXD Pin=U2-25
+Added Pin To Net: NetName=RXD Pin=U2-26
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component D? SMAJ5.0CA
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component D? SMAJ5.0CA
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component D? SMAJ5.0CA
+Added Room: Name=Integrated_Platform_Controller

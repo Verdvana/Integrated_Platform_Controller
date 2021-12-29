@@ -1,0 +1,25 @@
+Added Component: Designator=MH?(MOUNT)
+Added Component: Designator=MH?(MOUNT)
+Added Component: Designator=MH?(MOUNT)
+Added Component: Designator=MH?(MOUNT)
+Added Pin To Net: NetName=GND Pin=MH?-1
+Added Pin To Net: NetName=GND Pin=MH?-1
+Added Pin To Net: NetName=GND Pin=MH?-1
+Added Pin To Net: NetName=GND Pin=MH?-1
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component C? 20pF
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component C? 100nF
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component C? 22¦ÌF
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component C? 100nF
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component C? 100nF
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component C? 20pF
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component MH? Mounting Hole 3MM
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component MH? Mounting Hole 3MM
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component MH? Mounting Hole 3MM
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component MH? Mounting Hole 3MM
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component S? SW
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component S? SW
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component S? SW
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component S? SW
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component S? SW
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component S? SW
+Added Room: Name=Integrated_Platform_Controller

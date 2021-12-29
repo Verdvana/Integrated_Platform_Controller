@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=KEY1 Pin=U1-25
+Removed Pin From Net: NetName=KEY2 Pin=U1-26
+Added Pin To Net: NetName=KEY1 Pin=U1-21
+Added Pin To Net: NetName=KEY2 Pin=U1-25
+Added Pin To Net: NetName=LED1 Pin=R17-1
+Added Pin To Net: NetName=LED1 Pin=U1-22
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=R18-1
+Added Pin To Net: NetName=LED2 Pin=U1-26
+Added Net: Name=LED2
+Added Pin To Net: NetName=LED3 Pin=R19-1
+Added Pin To Net: NetName=LED3 Pin=U1-28
+Added Net: Name=LED3
+Added Pin To Net: NetName=LED4 Pin=R20-1
+Added Pin To Net: NetName=LED4 Pin=U1-29
+Added Net: Name=LED4
+Added Pin To Net: NetName=LED5 Pin=R21-1
+Added Net: Name=LED5
+Added Pin To Net: NetName=LED6 Pin=R22-1
+Added Net: Name=LED6
+Added Member To Class: ClassName=Integrated_Platform_Controller Member=Component R17 1K
+Added Room: Name=Integrated_Platform_Controller
